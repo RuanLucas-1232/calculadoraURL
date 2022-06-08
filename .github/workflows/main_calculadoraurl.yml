@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'calculadoraURL'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1417E099A0F5428FB0A93A756FB43C82 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D74DBD76156B4498A278BE59EAA68218 }}
           package: .
